@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "2daadebd714606aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "179a51bef41aceb1",
+        "type": "split",
+        "children": [
+          {
+            "id": "a7c01d991553809d",
+            "type": "tabs",
+            "dimension": 70.76923076923077,
+            "children": [
+              {
+                "id": "934f828e1ec46241",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2024-05-25.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e7748164f8aceda4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/コルーチン.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "956b962fe0c0ffc6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/Context.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9888da682f5f548",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/CoroutineScope.excalidraw.md"
+                  }
+                }
+              },
+              {
+                "id": "b4b6376221dd8655",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/コルーチンの実装.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8b5071ac75a5a23f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2024-06-09.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "538bda95977cc8e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/Google Maps SDK.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c9cc767ef44b322f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/抽象クラス.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "119015fad034fc85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech/多重継承.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "f9a4a8d9ee8018c8",
+            "type": "tabs",
+            "dimension": 29.230769230769234,
+            "children": [
+              {
+                "id": "2d90e6139f1a58d1",
+                "type": "leaf",
+                "state": {
+                  "type": "thino_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b02406388ed5b554",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac0505df5b655b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0b3ea408a6f8613",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98be4796fe584b99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a051877a70de67b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "027ab77d76b1148f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c2f7699cc957fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3209574f7bef5b86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/Google Maps SDK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "006471c93aab0749",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tech/Google Maps SDK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a728da432b9f7526",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20d3cc4fb7e4d54b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tech/Google Maps SDK.md"
+              }
+            }
+          },
+          {
+            "id": "3d58f39ce549b65d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "538bda95977cc8e2",
+  "lastOpenFiles": [
+    "Daily/2024-06-09.md",
+    "Tech/コルーチンの実装.md",
+    "Excalidraw/CoroutineScope.excalidraw.md",
+    "Daily/2024-05-25.md",
+    "Tech/Google Maps SDK.md",
+    "Tech/インターフェース.md",
+    "Tech/多重継承.md",
+    "Tech/抽象クラス.md",
+    "Tech/抽象関数.md",
+    "Tech/Context.md",
+    "Tech/コルーチン.md",
+    "Tech/BroadcastReciever.md",
+    "Tech/Brouadcast.md",
+    "Tech/Service.md",
+    "Tech/unstructured concurrency.md",
+    "Tech/viewModelScope.md",
+    "Tech/structured concurrency.md",
+    "Daily/2024-05-12.md",
+    "Excalidraw",
+    "Todos.md",
+    "config/templator/Default Templater.md",
+    "config/templator/Daily Templater.md",
+    "Tech/CoroutineScope.md",
+    "config/templator",
+    "無題のフォルダ",
+    "config",
+    "assets/Pasted image 20240516212704.png",
+    "assets",
+    "無題のファイル.canvas",
+    "無題のファイル 1.canvas",
+    "assets/Pasted image 20240518225858.png",
+    "Tech/スレッド.md",
+    "Tech/スレッドセーフ.md",
+    "Tech/emit関数.md",
+    "Tech/KotlinFlow.md",
+    "Tech",
+    "Daily"
+  ]
+}
