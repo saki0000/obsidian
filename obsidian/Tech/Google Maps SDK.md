@@ -30,7 +30,7 @@ plugins {
 ### 3. `local.properties`にAPIキーを設定
 ```kotlin
 sdk.dir=/Users/kouseihujisaki/Library/Android/sdk  
-MAPS_API_KEY=AIzaSyC4hu1WDAEFgSPV5oypDQZr76o3g5Pc8V4
+MAPS_API_KEY={}
 ```
 ### 4. `AndroidManifest.xml`の設定
 ```kotlin
